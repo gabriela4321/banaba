@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(248, 222, 73);
+    }
+    
+    
+    h2{
+        color: rgb(124, 90, 18);
+        font-size: 6cap;
+        margin: 3mm;
+        text-align:center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    h3{
+        color: rgb(124, 90, 18);
+        font-size: 4cap;
+        margin: 3mm;
+        text-align:center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    
+    h1{
+        color: rgb(124, 90, 18);
+        margin: 3cm;
+        text-align:center;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    button {
+        background-color: rgb(138, 88, 55);
+        width: 200px;
+        font-size: 20px;
+        padding: 10px;
+        border-radius: 5px;
+        border: 3px solid rgb(107, 9, 50);
+        color: white;
+        cursor: pointer;
+      }
+
+      .nanica {
+        margin: 2mm;
+        width: 3cm;
+        height: 2cm;
+    }
+    
